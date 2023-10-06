@@ -1,0 +1,14 @@
+{
+  "name": "com.itibsoft.savemanager",
+  "version": "0.0.1",
+  "displayName": "Save Manager",
+  "description": "JSON Save Manager for Unity Engine",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "http://docs.itibsoft.ru/books/modules/page/save-manager",
+  "author": {
+    "name": "Itibsoft",
+    "email": "itibsoft@gmail.com",
+    "url": "itibsoft.ru"
+  }
+}
